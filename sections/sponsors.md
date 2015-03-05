@@ -1,8 +1,8 @@
 # Sponsors
 
-* STA Group
+* STA Group (Space)
 
-* PeaPod
+* PeaPod (Food and Drinks)
 
 
 We thank them for their support!
