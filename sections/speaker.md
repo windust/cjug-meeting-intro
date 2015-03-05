@@ -1,8 +1,10 @@
 ## Speaker: Scott Kramer
 
-* STA Group - Hands-on Architect 
+* STA Group - Hands-on Architect
 * Past CJUG President
-* 
+* Involved with the IJUG
+* Organizer of Coder Conference
+
 
 ## Speaker: Brett Lindsley
 
