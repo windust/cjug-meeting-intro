@@ -1,4 +1,10 @@
 # Sponsors
 
+* STA Group
 
-<img src="images/logo-pivotal-220.png" style="border: none;" width="1200px" />
+* PeaPod
+
+
+We thank them for their support!
+
+
