@@ -1,4 +1,3 @@
 # Sponsors
 
-
-<img src="http://uptake.com/wp-content/uploads/2015/02/uptake_logo1.png" style="border: none;background: black" width="1200px" />
+<img src="http://www.conversantmedia.com/sites/all/themes/my_theme/images/conversant_logo.png" style="border: none;background: black" width="214px" />

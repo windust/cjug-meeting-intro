@@ -1,12 +1,11 @@
 ## Chicago Java Users Group
 
-March 17, 2015
+April 2, 2015
 
-Markus Eisele Presents: Wild Flies and a Camel - Java EE Integration Stories
+Andreas Grabner Presents: Java and Performance: Biggest Mistakes
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
-	<img src="http://www.wikihow.com/images/a/a5/Draw-a-Shamrock-Step-12.jpg" width="50px" height="50px"/>
 </div>
 
 
@@ -22,7 +21,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,200+** members
+* **1,300+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -32,18 +31,13 @@ Chicago Java Users Group is dedicated to the helping you.
 <table class="upcoming-events">
 	
 	<tr>
-		<th>March 26, 2015</th>
-		<td>Maker Track: Android, XBee, Quadcopters and Seg-Bots</td>
-	</tr>
-	<tr>
-		<th>April 2, 2015</th>
-		<td>Andreas Grabner Presents: Java and Performance: Biggest Mistakes</td>
-	</tr>
-	<tr>
-		<th>April 21, 2015</th>
+		<th>Tuesday, April 21, 2015</th>
 		<td>Derek Ashmore Presents: Microservices for Java Architects</td>
 	</tr>
-	
+	<tr>
+		<th>Monday, May 11, 2015</th>
+		<td>Trisha Gee Presents: Is Groovy Better For Testing Than Java?</td>
+	</tr>
 </table>
 
 

@@ -1,6 +1,5 @@
-## Speaker: Markus Eisele
+## Speaker: Andreas Grabner
 
-* Red Hat - Developer Advocate
-* Java Champion
-* Speaker/Writer on all things JavaEE
-
+* Technology Strategist at Dynatrace
+* Application performance evangelist
+* Salsa Dancer
